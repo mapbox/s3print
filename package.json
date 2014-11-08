@@ -1,0 +1,22 @@
+{
+  "name": "s3print",
+  "version": "1.0.0",
+  "description": "Print the content of a file on S3 to your console",
+  "bin": {
+    "s3print": "bin/s3print.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rclark/s3print.git"
+  },
+  "author": "Ryan Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rclark/s3print/issues"
+  },
+  "homepage": "https://github.com/rclark/s3print",
+  "dependencies": {
+    "aws-sdk": "^2.0.25",
+    "lodash": "^2.4.1"
+  }
+}
