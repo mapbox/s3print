@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rclark/s3print.git"
+    "url": "https://github.com/mapbox/s3print.git"
   },
   "author": "Ryan Clark",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rclark/s3print/issues"
+    "url": "https://github.com/mapbox/s3print/issues"
   },
-  "homepage": "https://github.com/rclark/s3print",
+  "homepage": "https://github.com/mapbox/s3print",
   "dependencies": {
     "aws-sdk": "^2.0.25",
     "lodash": "^2.4.1"
