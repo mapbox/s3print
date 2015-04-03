@@ -17,6 +17,7 @@
   "homepage": "https://github.com/mapbox/s3print",
   "dependencies": {
     "aws-sdk": "^2.0.25",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "minimist": "^1.1.1"
   }
 }
