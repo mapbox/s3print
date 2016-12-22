@@ -4,7 +4,7 @@ Print the contents of a file on S3 to stdout
 
 ## Install
 ```sh
-$ npm install -g s3print
+$ npm install -g @mapbox/s3print
 ```
 
 ## Configuration
